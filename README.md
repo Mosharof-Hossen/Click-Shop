@@ -1,6 +1,6 @@
 # Project Name : [Click Shop](https://mosharof-hossen.github.io/Click-Shop/)
 
-## Feature: 
+## Tools: 
 
 1.HTML
 
